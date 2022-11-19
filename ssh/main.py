@@ -1,10 +1,10 @@
 import paramiko
 
 # Credentials for the server
-port = "22"
-hostname = "ubuntu"
-username = "drg"
-password = "Dragomirescu22"
+port = "**"
+hostname = "**"
+username = "**"
+password = "**"
 
 # Connect to the server
 ssh = paramiko.SSHClient()
